@@ -1,4 +1,6 @@
 # Takyly
+[![Build Status](https://travis-ci.org/takyly/takyly-web.svg?branch=master)](https://travis-ci.org/takyly/takyly-web)
+
 This application was generated using JHipster 4.14.1, you can find documentation and help at [http://www.jhipster.tech/documentation-archive/v4.14.1](http://www.jhipster.tech/documentation-archive/v4.14.1).
 
 ## Development
